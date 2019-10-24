@@ -1,0 +1,14 @@
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\entity\BulkDeleteResponse.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\entity\User.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\rest\UserRestController.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\dao\UserDAO.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\dao\UserDAOHibernateImpl.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\service\UserGMailServiceImpl.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\rest\UserErrorResponse.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\service\UserMailService.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\service\UserService.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\entity\BulkDeleteParam.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\rest\UserNotFoundException.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\rest\UserRestExceptionHandler.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\UsermgmtApplication.java
+C:\ravi\jobs\coding assignments\spring-boot\usermgmt\src\main\java\com\xyzorg\springboot\usermgmt\service\UserServiceImpl.java
